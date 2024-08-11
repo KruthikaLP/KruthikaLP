@@ -31,6 +31,4 @@ Description of the project.
 
 📫 Get In Touch
 
-Email: your-email@example.com
-
-LinkedIn: Connect with me
+LinkedIn:https://www.linkedin.com/in/kruthikalp532001
