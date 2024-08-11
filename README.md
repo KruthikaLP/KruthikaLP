@@ -23,3 +23,9 @@ Description of the project.
 Project 2: Implementation of DataStructures
 
 Description of the project.
+
+📫 Get In Touch
+
+Email: your-email@example.com
+
+LinkedIn: Connect with me
