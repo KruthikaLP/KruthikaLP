@@ -10,8 +10,11 @@ Backend: Spring, Hibernate ,JEE,Collections,SpringBoot
 
 Others: Data Structures, Algorithms
 
+
 🌱 What I'm Learning
 I'm currently focusing on improving my skills in Spring Boot and exploring new technologies to expand my knowledge in full-stack development.
+
+
 
 💼 Projects
 Here are a few projects I've worked on:
@@ -23,6 +26,8 @@ Description of the project.
 Project 2: Implementation of DataStructures
 
 Description of the project.
+
+
 
 📫 Get In Touch
 
