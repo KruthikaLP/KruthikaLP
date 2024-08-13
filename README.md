@@ -49,6 +49,9 @@
   <!-- For Collections, there isn't a specific logo. You can use the Java logo or create a custom icon if needed -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot logo"  />
   <img width="12" />
   <!-- No specific logo for Data Structures and Algorithms, so you might use a generic algorithm or data structure icon -->
