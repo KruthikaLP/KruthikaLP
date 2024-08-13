@@ -6,7 +6,6 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-  ✨ Creating bugs since 2019 <br>
   📚 I'm currently learning new technologies <br>
   🎯 Goals: To become a full-stack developer <br>
   🎲 Fun fact: I love coding and music
@@ -44,9 +43,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" alt="hibernate logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot logo"  />
 
   <img width="12" />
@@ -58,7 +54,7 @@
 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-<
+
 </div>
 
 ###
