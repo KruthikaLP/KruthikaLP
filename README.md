@@ -1,5 +1,5 @@
 Hi, I'm Kruthika! 👋
-I'm a passionate software developer with a strong foundation in Java and data structures. I enjoy building web applications and have experience with both frontend and backend technologies.
+I'm a passionate software developer with a strong foundation in Java and data structures. I enjoy building web applications and have experience with both frontend and backend technologies, Database.
 
 🚀 Skills
 Programming Languages: Java, JavaScript
