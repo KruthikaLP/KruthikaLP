@@ -1,7 +1,7 @@
 
 <h1 align="left">Hey 👋 </h1>
 
-<p align="left">My name is Kruthika LP and I'm a passionate developer, from [Your Location].</p>
+<p align="left">My name is Kruthika LP and I'm a passionate developer.</p>
 
 <h2 align="left">About me</h2>
 
